@@ -1,0 +1,2 @@
+<?php
+$settings = fopen('../firstrun.php', 'w');

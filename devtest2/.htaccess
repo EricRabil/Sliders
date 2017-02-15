@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /devtest2/
+RewriteRule ^login /auth/login.php
